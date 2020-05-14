@@ -1,4 +1,5 @@
- const isLeap = (year) =>
-  //type code here
+const clean = enteredNumber => {
+   //type code 
+  };
   
-  module.exports = isLeap;
+  module.exports = clean;
